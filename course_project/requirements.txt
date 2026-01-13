@@ -61,7 +61,7 @@ pandas==2.0.3
 parso==0.8.3
 patsy==0.5.4
 phik==0.12.3
-Pillow==10.1.0
+Pillow==10.3.0
 platformdirs==3.11.0
 preshed==3.0.9
 prompt-toolkit==3.0.39
